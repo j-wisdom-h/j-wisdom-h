@@ -20,11 +20,10 @@
 
 🐱 **About Me** 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrwlgp235@gmail.com)](qkrwlgp235@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkrwlgp235@gmail.com)](mailto:qkrwlgp235@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/66ce8c49282f472696f5a5752e618543?pvs=4)](https://www.notion.so/66ce8c49282f472696f5a5752e618543?pvs=4)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@j_wisdom_h)](https://velog.io/@j_wisdom_h)
 
 <br>
 
-🌱 I’m currently learning GraphQL, Next.js
-
+🌱 I’m currently learning **GraphQL, Next.js**
