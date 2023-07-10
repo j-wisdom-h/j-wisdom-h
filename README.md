@@ -1,6 +1,6 @@
-### Welcome, I'm JIHYE PARK
+## Welcome, I'm JIHYE PARK
 
-#### Web FE Developer
+### Web FE Developer
 쉽게 잘하는 것보다는 "열심히 하고 싶게 만드는"일을 합니다.
 
 <br>
@@ -25,5 +25,7 @@
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@j_wisdom_h)](https://velog.io/@j_wisdom_h)
 
 <br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=j-wisdom-h)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning **GraphQL, Next.js**
